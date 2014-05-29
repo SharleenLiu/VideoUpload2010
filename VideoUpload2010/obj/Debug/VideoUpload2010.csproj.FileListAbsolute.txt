@@ -1,0 +1,4 @@
+C:\WebSites\VideoUpload2010\VideoUpload2010\bin\VideoUpload2010.dll
+C:\WebSites\VideoUpload2010\VideoUpload2010\bin\VideoUpload2010.pdb
+C:\WebSites\VideoUpload2010\VideoUpload2010\obj\Debug\VideoUpload2010.dll
+C:\WebSites\VideoUpload2010\VideoUpload2010\obj\Debug\VideoUpload2010.pdb
